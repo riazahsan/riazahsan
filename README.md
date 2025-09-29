@@ -1,5 +1,5 @@
 # Hi, I'm Riaz Ahsan
-- I am a computer science student at Virginia Tech interested in the intersection between programming, finance, and power systems engineering. Computer science is a vast field with many different applications, and I take great joy in applying these principles to many different fields. 
+- I am a Computer Science student at Virginia Tech interested in the intersection between programming, finance, and power systems engineering. Computer Science is a vast field with many different applications, and I take great joy in applying these principles to many different fields. 
 
 ---
 
